@@ -11,5 +11,5 @@ This project will use the following processes:
 5. Data mapping
 6. Recommend with Pearsons' R correlation ( Recommendation model)
 
-We have used only one dataset but you can use more datasets available in the given link:
+I have used only one dataset but you can use more datasets available in the given link:
 https://drive.google.com/drive/folders/1uifm-Q6QZaoQsK-JfByrK-I4vQKJlJo8?usp=sharing
